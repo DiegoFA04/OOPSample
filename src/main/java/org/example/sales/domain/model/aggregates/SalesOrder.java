@@ -1,6 +1,6 @@
-package sales.domain.model.aggregates;
+package org.example.sales.domain.model.aggregates;
 
-import shared.domain.model.valueobjects.Address;
+import org.example.shared.domain.model.valueobjects.Address;
 
 import java.util.List;
 import java.util.UUID;
